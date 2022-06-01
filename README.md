@@ -24,6 +24,10 @@ npm start
 
 se manejo sin validaciones de contexto en los formularios, sin embargo se colocan not null para que el registro no entre en caso de falta de un dato, se utiliza de modo local en la base de datos.
 
+tomando en cuenta el horario en turno 1, 2 y 3
+
+tomando en cuenta categoria 1,2,3,4 o 5 tenedores
+
 Se utilizo:
 
 React, Node.js, Express, MySQL, Bootstrapp, API axios, Lib Routes y JS
